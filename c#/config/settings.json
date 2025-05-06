@@ -1,0 +1,5 @@
+{
+  "model": "gpt-4o",
+  "azureEndpoint": "[YOUR-ENDPOINT]",
+  "apikey": "[YOUR-API-KEY]"
+}
